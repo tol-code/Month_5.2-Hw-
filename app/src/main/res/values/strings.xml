@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">5-month.Hw-2</string>
+    <string name="you">You</string>
+    <string name="you_score">You Score</string>
+    <string name="me">Me</string>
+    <string name="todo">TODO</string>
 </resources>
